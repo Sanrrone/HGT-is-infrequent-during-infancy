@@ -1,2 +1,2 @@
-# HGT-is-infrequent-during-infancy-
+# HGT-is-infrequent-during-infancy
 Repository for data availability
